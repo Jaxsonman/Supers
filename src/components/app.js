@@ -10,6 +10,7 @@ export default class App extends Component {
         <SupersList heading ="SpiderMan"/>
         <SupersList heading ="Venom"/>
         <SupersList heading ="Thor"/>
+        <h3>If Everyone is super, then no one is.....</h3>
       </div>
     );
   }
